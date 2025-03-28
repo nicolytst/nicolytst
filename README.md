@@ -26,7 +26,7 @@
 ### 📬 Como me contatar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoly-thereza-a96391285/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/nicoly__st/])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicoly__st/)
 
 ---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d72fe7&height=120&section=footer"/>
